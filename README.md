@@ -1,9 +1,9 @@
-<center>
+<div align="center">
 <h1>👋 Hi, I’m @Jageun101</h1>
-</center>
+</div>
 
 ![banner](./src/banner.gif)
 
-<center>
+<div align="center">
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jageun101&layout=pie">
-</center>
+</div>
